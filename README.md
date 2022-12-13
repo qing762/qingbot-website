@@ -1,19 +1,49 @@
-# Rickroll
-A website with the auto-playing song "Never Gonna Give You Up" that can be used to rickroll your friends.
 
-# Current Rickrolls: 50,332
-### (Last checked on 7/23/22)
+# [qingBot website](https://qingbotcommand.netlify.app/)
 
-**Find it here: https://rebrand.ly/r1ckr0l13r**
+#### A website for my Discord bot, qingBot.
+#### Anyone who accessed the BASE url will get redirected to the [top.gg website](https://top.gg/bot/926975122030596196)
 
-UPDATE 1: This small project has RickRolled 23,440 people and counting as of Jan. 31st, 2022!
 
-UPDATE 2 (Feb. 4th, 2022): Now with 1080p60 resolution (Issue [#1][i1])
 
-UPDATE 3: This project has reached 33,440 RickRolls as of Apr. 3rd, 2022!
+## API Reference
 
-UPDATE 4: Reached 44,296 RickRolls on June 16th, 2022!
+#### This website provide the [Honor of Kings API](https://github.com/qing762/honor-of-kings-json) that I scraped from the [official website](https://pvp.qq.com/).
+#### I will deploy every API that I make on this website. Stay tuned!
+```http
+  GET /wangzhe.json
+```
 
-UPDATE 5: Hit 50K RickRolls on July 23rd, 2022!
 
-[i1]: https://github.com/ShatteredDisk/rickroll/issues/1
+
+## Authors
+
+- [@qing762](https://twitch.tv/qing762)
+
+
+## FAQ
+
+#### Will the Honor of Kings API get constantly updated?
+
+[Answer](https://github.com/qing762/honor-of-kings-json#will-this-be-updated-in-the-future)
+
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Just create a pull request!
+
+
+## Feedback
+
+If you have any feedback, please reach out to me by [clicking the hyperlink](https://discord.com/users/635765555277725696).
+
+
+## Appendix
+
+This website is hosted on [Netlify](https://netlify.app)!
+
+
