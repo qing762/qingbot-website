@@ -1,4 +1,4 @@
-
+![Netlify Status](https://api.netlify.com/api/v1/badges/3fe173cb-70d9-4c2e-81d2-2cc55cca34fb/deploy-status)
 # [qingBot website](https://qingbotcommand.netlify.app/)
 
 #### A website for my Discord bot, qingBot.
